@@ -1,0 +1,14 @@
+{
+  "name": "discord-selfbot",
+  "version": "1.0.0",
+  "description": "Discord selfbot with custom status, StreamRPC, and mention features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "^3.4.1",
+    "openai": "^6.49.0"
+  }
+}
